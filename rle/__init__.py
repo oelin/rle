@@ -10,7 +10,7 @@ def encode(string):
             counter += 1
 
         else:
-            code = f'{count}{a}'
+            code = f'{a}{count}'
 
             if len(code) < counter:
                 encoding += code
