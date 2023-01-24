@@ -1,4 +1,4 @@
-def rle(string):
+def encode(string):
     
     encoded = ''
     counter = 1
