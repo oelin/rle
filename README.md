@@ -1,3 +1,3 @@
 # RLE
 
-A simple run-length encoder for Python.
+A simple run-length encoding library for Python.
